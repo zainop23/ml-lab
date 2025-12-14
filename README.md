@@ -1,1 +1,12 @@
-<img width="715" height="764" alt="image" src="https://github.com/user-attachments/assets/5265175d-9a32-4c48-b35f-b2993d48c639" />
+1. Develop a Python program to perform Exploratory Data Analysis (EDA) on the California Housing dataset by generating histograms for all numerical features to understand their distributions and box plots to visually detect and analyze the presence of outliers.
+2. Develop a Python program to analyze the relationships between features in the Iris dataset. Compute and visualize the correlation matrix using a heatmap to identify patterns of strong correlation.
+3. Develop a Python program to apply Principal Component Analysis (PCA) on the Iris dataset to reduce its dimensionality from 4 features to 2 principal components. Visualize the result using a scatter plot, with different colors for each Iris species.
+4. For a given set of training data examples implement and demonstrate the Candidate-Elimination algorithm to output a description of the set of all hypotheses consistent with the training examples.
+5. Develop a Python program to demonstrate the working of linear regression. Use the Housing dataset to predict housing prices based on available features. Train the model, and evaluate its performance using the R² score and RMSE metrics.
+6. Develop a Python program to demonstrate the working of polynomial regression. Apply polynomial transformation to capture the non-linear relationship between the input features and the target variable. Visualize the regression curve along with the actual data points to assess model fit.
+7. Develop a program to implement logistic regression for binary classification on the Titanic Data Set. Split the dataset into training and testing sets. Evaluate the model using appropriate classification metrics.
+8. Write a program to implement the k-Nearest Neighbor algorithm to classify the iris data set and display both correct and wrong predictions. 
+9. Develop a program to demonstrate the working of the decision tree algorithm. Use the Breast Cancer Data set for building the decision tree, and apply this knowledge to classify a new sample.
+10. Implement the Expectation-Maximization (EM) algorithm to perform clustering on data with hidden variables.
+11. Implement and compare Simple Majority Voting Classifier, Bagging Classifier , Boosting, and Random Forest ensemble learning techniques. Evaluate their performance on a classification dataset.
+12. Implement policy search using a simple reinforcement learning environment to learn optimal decision-making.
