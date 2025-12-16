@@ -7,6 +7,6 @@
 7. Develop a program to implement logistic regression for binary classification on the Titanic Data Set. Split the dataset into training and testing sets. Evaluate the model using appropriate classification metrics.
 8. Write a program to implement the k-Nearest Neighbor algorithm to classify the iris data set and display both correct and wrong predictions. 
 9. Develop a program to demonstrate the working of the decision tree algorithm. Use the Breast Cancer Data set for building the decision tree, and apply this knowledge to classify a new sample.
-10. Implement the Expectation-Maximization (EM) algorithm to perform clustering on data with hidden variables.
+10. Implement the Expectation-Maximization (EM) algorithm to perform clustering on data with hidden variables : https://gemini.google.com/share/3c857233755e
 11. Implement and compare Simple Majority Voting Classifier, Bagging Classifier , Boosting, and Random Forest ensemble learning techniques. Evaluate their performance on a classification dataset.
 12. Implement policy search using a simple reinforcement learning environment to learn optimal decision-making.
